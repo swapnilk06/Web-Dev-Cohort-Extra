@@ -1,4 +1,4 @@
-# Code & Workout 1-Week Challenge 🏋️‍♂️💻 
+# Code & Workout 1-Week Challenge (Fast & Self Paced)🏋️‍♂️💻 
 From Date:[25-3-25]
 
 Welcome to my **Code & Workout 1-Week Challenge**! 🚀 
@@ -10,7 +10,7 @@ Welcome to my **Code & Workout 1-Week Challenge**! 🚀
 | Day | Coding Task | Workout |
 |---|---|---|
 | 1 | Learn Tailwind through project | Pranayam & Home Workout |
-| 2 | Learn React through project  | Pranayam |
+| 2 | Learn React Code through project  | Pranayam |
 | 3 | React Project  | Pranayam |
 
 ## 📢 Updates
