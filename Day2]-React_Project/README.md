@@ -4,7 +4,7 @@ Date:[26-3-25]
 Welcome Day-2 to my **Code & Workout 1-Week Challenge**! 🚀 
 
 ## 📌 Goal:
-- Create basic website using React & Vite
+- Create basic counter like functionality (work with hooks) using React & Vite
 
 - Projects folder structure :
 
