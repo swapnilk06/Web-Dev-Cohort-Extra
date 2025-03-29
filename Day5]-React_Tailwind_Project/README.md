@@ -1,11 +1,11 @@
 # Code & Workout 4th-Day Challenge 🏋️‍♂️💻 
-Date:[28-3-25]
+Date:[29-3-25]
 
-Welcome Day-4 to my **Code & Workout 1-Week Challenge**! 🚀 
+Welcome Day-5 to my **Code & Workout 1-Week Challenge**! 🚀 
 
 ## 📌 Goal:
-- Project Configure React & Props with Tailwind using vite
-- Working of Props
+- Project Configure React & Props with Tailwind using vite 
+- Background changer project
 
 
 ## React installation steps :-
@@ -14,12 +14,12 @@ Step 1]
   - `npm create vite@latest`
 
 Step 2]
-  - Add project name : `03tailwindprops`
+  - Add project name : `04bgchanger`
   - Select a framework : `React`
   - Select a variant : `JavaScript`
 
 Step 3]
-  - `cd 03tailwindprops`
+  - `cd 04bgchanger`
   - `npm install`
 
 Step 4]
@@ -53,6 +53,7 @@ Step 3] Update in -> `index.css`
   
   /* use for tailwind CSS suggestion showing */
   @tailwind utilities;
+  
 
 
 Step 4] Run that
