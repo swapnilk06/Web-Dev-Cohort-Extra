@@ -1,11 +1,11 @@
-# Code & Workout 4th-Day Challenge 🏋️‍♂️💻 
+# Code & Workout 5th-Day Challenge 🏋️‍♂️💻 
 Date:[29-3-25]
 
 Welcome Day-5 to my **Code & Workout 1-Week Challenge**! 🚀 
 
 ## 📌 Goal:
 - Project Configure React & Props with Tailwind using vite 
-- Background changer project
+- Background changer working
 
 
 ## React installation steps :-
@@ -26,7 +26,7 @@ Step 4]
   - `npm run dev`
 
 
-## Tailwind CSS through framework  Vite steps :-
+## Tailwind CSS through framework Vite steps :-
 
 Step 1] Tailwind through vite
   - `npm install tailwindcss @tailwindcss/vite`
@@ -100,6 +100,6 @@ export default {
 -->
 
 ### NOTE -
-
+- onClick method problem - onClick required function, they not required function return 
 
 

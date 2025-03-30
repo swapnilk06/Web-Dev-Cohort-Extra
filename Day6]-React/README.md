@@ -1,11 +1,10 @@
-# Code & Workout 4th-Day Challenge 🏋️‍♂️💻 
-Date:[28-3-25]
+# Code & Workout 6th-Day Challenge 🏋️‍♂️💻 
+Date:[30-3-25]
 
-Welcome Day-4 to my **Code & Workout 1-Week Challenge**! 🚀 
+Welcome Day-6 to my **Code & Workout 1-Week Challenge**! 🚀 
 
 ## 📌 Goal:
-- Project Configure React & Props with Tailwind using vite
-- Understanding working of Props
+- 
 
 
 ## React installation steps :-
@@ -14,12 +13,12 @@ Step 1]
   - `npm create vite@latest`
 
 Step 2]
-  - Add project name : `03tailwindprops`
+  - Add project name : `04bgchanger`
   - Select a framework : `React`
   - Select a variant : `JavaScript`
 
 Step 3]
-  - `cd 03tailwindprops`
+  - `cd 04bgchanger`
   - `npm install`
 
 Step 4]
@@ -53,6 +52,7 @@ Step 3] Update in -> `index.css`
   
   /* use for tailwind CSS suggestion showing */
   @tailwind utilities;
+  
 
 
 Step 4] Run that
@@ -100,5 +100,4 @@ export default {
 
 ### NOTE -
 
-- Props make components are resuable.
 
