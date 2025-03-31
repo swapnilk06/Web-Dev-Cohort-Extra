@@ -1,0 +1,69 @@
+/* Make the body fill the entire viewport */
+body, html {
+	height: 100%;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+  
+  /* Center the reaction box */
+  .reaction-box {
+	padding: 2rem;
+	border-radius: 10px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+	text-align: center;
+	width: 320px;
+  }
+  
+  /* Heading */
+  .heading {
+	color: white;
+	font-size: 1.25rem;
+	font-weight: bold;
+	margin-bottom: 1rem;
+  }
+  
+  /* Reactions container */
+  .reactions {
+	display: flex;
+	flex-wrap: wrap; /* Allow wrapping of emojis to next line */
+	justify-content: center; /* Center the emojis */
+	gap: 10px; /* Spacing between emojis */
+	margin-top: 10px; /* Add some space from the heading */
+  }
+  
+  /* Emoji button */
+  .emoji-btn {
+	font-size: 2rem; /* Increased emoji size for better visibility */
+	padding: 12px;
+	border-radius: 8px;
+	border: none;
+	cursor: pointer;
+	background-color: #374151; /* Tailwind's bg-gray-700 */
+	color: white;
+	transition: transform 0.2s ease, background-color 0.2s ease;
+  }
+  
+  /* Emoji button hover effect */
+  .emoji-btn:hover {
+	background-color: #4b5563; /* Tailwind's bg-gray-600 */
+  }
+  
+  /* Emoji button active effect */
+  .emoji-btn:active {
+	transform: scale(0.95);
+  }
+  
+  /* Active (selected) emoji */
+  .emoji-btn.active {
+	background-color: #3b82f6; /* Tailwind's blue-500 */
+	color: white;
+  }
+  
+  /* Selected reaction text */
+  .selected-reaction {
+	margin-top: 12px;
+	color: #d1d5db; /* Tailwind's gray-300 */
+	font-size: 1rem;
+  }

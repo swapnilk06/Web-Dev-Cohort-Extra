@@ -58,14 +58,18 @@ CODE_WORKOUT - 1-WEEK CHALLENGE
 │   ├── Day-6 Code.png
 │   ├── Day-6 Workout.jpg
 │   └── README.md
-├── Day6]-React_Project
+├── Day7]-React_Project
 │   ├── 06emojipicker
 │   ├── Day-7 Code.png
 │   ├── Day-7 Workout.jpg
+│   ├── 1 week challenge track 
 │   └── README.md
 │
 └── README.md
 ```
+
+## Track on Clockify after challenge complete  
+![alt text](<1 week challenge track .png>)
 
 ## Challenge Overview
 For one week, I am focusing on improving my coding skills along with maintaining a workout routine. Below are the key areas of focus:
@@ -99,5 +103,3 @@ For one week, I am focusing on improving my coding skills along with maintaining
 ## How to Use This Repository
 1. Navigate to each day's folder to see projects and progress.
 2. Check the `README.md` files inside each folder for specific details.
-
-More React Projects (Upcoming)**
