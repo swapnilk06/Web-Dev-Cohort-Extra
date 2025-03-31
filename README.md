@@ -18,7 +18,8 @@ Welcome to my **Code & Workout 1-Week Challenge**! 🚀
 | 3 | React & Tailwind CSS basic flow portfolio project | Pranayam |
 | 4 | React props concept | Pranayam & Home Workout |
 | 5 | React & Tailwind CSS background color changer project | Pranayam & Home Workout |
-| 6 |  | Pranayam & Home Workout |
+| 6 | React & Tailwind CSS password generator project | Pranayam & Home Workout |
+| 7 | REACT JS emoji picker project | Pranayam & Home Workout |
 
 ## Folder Structure
 
@@ -52,10 +53,17 @@ CODE_WORKOUT - 1-WEEK CHALLENGE
 │   ├── Day-5 Code.png
 │   ├── Day-5 Workout.jpg
 │   └── README.md
-├── Day-6]-React
-│   ├── (Pending)
+├── Day6]-React_useEffect_useRef_Callback_Project
+│   ├── 05passwordGenerator
+│   ├── Day-6 Code.png
 │   ├── Day-6 Workout.jpg
 │   └── README.md
+├── Day6]-React_Project
+│   ├── 06emojipicker
+│   ├── Day-7 Code.png
+│   ├── Day-7 Workout.jpg
+│   └── README.md
+│
 └── README.md
 ```
 
@@ -81,12 +89,15 @@ For one week, I am focusing on improving my coding skills along with maintaining
 ### **Day 5: React Tailwind Mini Project**
 - Created a background color changer using React & Tailwind.
 
-### **Day 6: More React Projects (Upcoming)**
-- Yet to be planned.
+### **Day 6: React JS project using methods
+- Creating a password generator using React JS useEffect, useRef & useCallback.
+
+### **Day 7: React JS mini project  **
+- Creating mini project Emoji Picker in React JS
 
 
 ## How to Use This Repository
 1. Navigate to each day's folder to see projects and progress.
 2. Check the `README.md` files inside each folder for specific details.
-3. Follow along and join me in this coding and workout challenge!
 
+More React Projects (Upcoming)**

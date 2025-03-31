@@ -4,7 +4,8 @@ Date:[30-3-25]
 Welcome Day-6 to my **Code & Workout 1-Week Challenge**! 🚀 
 
 ## 📌 Goal:
-- 
+- Learn methods in React JS useEffect, useRef & useCallback
+- Password generator in that someone gives random text.
 
 
 ## React installation steps :-
@@ -13,12 +14,13 @@ Step 1]
   - `npm create vite@latest`
 
 Step 2]
-  - Add project name : `04bgchanger`
+  - Add project name : `05passwordGenerator`
+  - Select a package name : `05passwordGenerator`
   - Select a framework : `React`
   - Select a variant : `JavaScript`
 
 Step 3]
-  - `cd 04bgchanger`
+  - `cd 05passwordGenerator`
   - `npm install`
 
 Step 4]
@@ -80,24 +82,13 @@ export default App
 
 ```
 
-<!-- 
-Old Step 6] 
-
-  - add file to path : `tailwind.config.js`
-  
-  /** @type {import('tailwindcss').Config} */
-export default {
-	content: [
-	  "./index.html",
-	  "./src/**/*.{js,ts,jsx,tsx}"
-	],
-	theme: {
-	  extend: {},
-	},
-	plugins: [],
-  };
--->
-
 ### NOTE -
 
+- For tracking length we required => "useState"
+- useCallback in react => documentation
+  - "useCallback" is a React Hook that lets you cache a function definition betn re-renders.
+- "useEffect" hook => in a React hook that let you synchronize a component with an external system.
+- Clipboard copy is not difficult but, difficult task is what we can copy?
+- Every thing in react is also "hook".
+- In server site "window" object not work (in nextjs), but in reactjs window object work.
 
